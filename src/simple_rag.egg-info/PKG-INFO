@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: simple_rag
+Version: 0.0.1
+Requires-Python: >=3.10
+Requires-Dist: langchain
+Requires-Dist: langchain-openai
+Requires-Dist: langchain_community
+Requires-Dist: langchainhub
+Requires-Dist: langgraph
+Requires-Dist: chromadb
+Requires-Dist: tiktoken
+Requires-Dist: tavily-python
+Requires-Dist: youtube-transcript-api
+Requires-Dist: python-dotenv
+Requires-Dist: bs4

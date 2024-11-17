@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain_community
+langchainhub
+langgraph
+chromadb
+tiktoken
+tavily-python
+youtube-transcript-api
+python-dotenv
+bs4
